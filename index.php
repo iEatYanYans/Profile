@@ -1,2 +1,2 @@
-<? php echo 'Index of P1'; ?>
+<?php echo 'Yan Chen'; ?>
 <img src =''>
