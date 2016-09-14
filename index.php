@@ -31,7 +31,7 @@
 
         <nav class="navbar navbar-inverse navbar-static-top">
           <div class="container">
-            <div class="navbar-header">
+            <div class="navbar-header" color ="#000000">
               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
@@ -58,6 +58,15 @@
       </div>
     </div>
 
+
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing">
+
       <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">
@@ -75,13 +84,6 @@
       <hr class="featurette-divider">
 
       <!-- /END THE FEATURETTES -->
-
-
-    <!-- Marketing messaging and featurettes
-    ================================================== -->
-    <!-- Wrap the rest of the page in another container to center all the content. -->
-
-    <div class="container marketing">
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
