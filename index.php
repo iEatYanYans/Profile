@@ -73,7 +73,7 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Yan Chen <span class="text-muted"></span></h2>
+          <h2 class="featurette-heading">Yan Chen <span class="text-muted" align= "center"></span></h2>
           <p class="lead"> Some stuff about me</p>
         </div>
         <div class="col-md-5">
