@@ -77,7 +77,7 @@
           <p class="lead"> Some stuff about me</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="images/Me.JPG" alt="IMAGE OF YAN" width="300">
+          <img class="featurette-image img-responsive center-block" src="images/Me.JPG" alt="IMAGE OF YAN" width="500">
         </div>
       </div>
     </div>
