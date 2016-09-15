@@ -73,8 +73,8 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">Yan Chen <span class="text-muted" align= "center"></span></h2>
-          <p class="lead"> Some stuff about me</p>
+          <h2 class="featurette-heading" align="center">Yan Chen <span class="text-muted"></span></h2>
+          <p class="lead" align="center"> Some stuff about me</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="images/Me.JPG" alt="IMAGE OF YAN" width="500">
