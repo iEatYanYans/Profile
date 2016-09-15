@@ -90,19 +90,19 @@
       <div class="container marketing">
       <div class="row" align="center">
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+          <img class="img-circle" src="images/2.png" alt="Generic placeholder image" width="140" height="140">
           <h2>Project 2</h2>
           <p><a class="btn btn-default" href="#" role="button">View &raquo;</a></p>
           <p><a class="btn btn-default" href="#" role="button">Github &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+          <img class="img-circle" src="images/3.png" width="140" height="140">
           <h2>Project 3</h2>
           <p><a class="btn btn-default" href="#" role="button">View &raquo;</a></p>
           <p><a class="btn btn-default" href="#" role="button">Github &raquo;</a></p>
         </div><!-- /.col-lg-4 -->
         <div class="col-lg-4">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
+          <img class="img-circle" src="images/4.png" width="140" height="140">
           <h2>Project 4</h2>
           <p><a class="btn btn-default" href="#" role="button">View &raquo;</a></p>
           <p><a class="btn btn-default" href="#" role="button">Github &raquo;</a></p>
